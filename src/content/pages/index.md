@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Olumuyiwa Saka
+tagline: Project Manager, IT & Data Analyst and Backend Developer.
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: Know more
+  ctaText: Hire Me.
   ctaLink: /about
 ---
 
