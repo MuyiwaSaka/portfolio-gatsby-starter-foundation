@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Olumuyiwa Saka
 tagline: Project Manager, IT & Data Analyst and Backend Developer.
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/mugshot.jpg
 cta:
   ctaText: Hire Me.
   ctaLink: /about
