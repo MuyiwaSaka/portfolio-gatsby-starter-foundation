@@ -1,8 +1,9 @@
 ---
 template: blog-post
-slug: /markdown
+title: On My Investigation Into Recurrence of Market Fires In Nigeria.
+slug: /marketfires
 date: 2020-05-09T05:53:16.102Z
-title: "Markdown: Syntax"
+description: marketfires, data analysis, kaggle, data science, python, python notebooks.
 featuredImage: /assets/mike-dorner-sf_1ZDA1YFw-unsplash.jpg
 ---
 
